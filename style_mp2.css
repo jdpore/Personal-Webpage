@@ -13,7 +13,7 @@ body {
   margin: auto;
 }
 
-.logo{
+.logo {
   margin-right: 25%;
 }
 
@@ -24,8 +24,8 @@ a {
   margin-top: -10px;
 }
 
-img{
-    vertical-align: middle;
+img {
+  vertical-align: middle;
 }
 
 .bg {
@@ -76,7 +76,7 @@ p.thick {
   position: absolute;
   text-align: left;
   margin-top: 16%;
-  font-family: sans-serif;
+  font-family: Calibri;
 }
 
 div {
@@ -90,5 +90,5 @@ h1 {
   position: absolute;
   text-align: left;
   font-size: 40px;
-  font-family: sans-serif;
+  font-family: Calibri;
 }
