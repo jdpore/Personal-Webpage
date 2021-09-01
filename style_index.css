@@ -44,6 +44,11 @@ p.thick {
   display: inline-block;
 }
 
+.right {
+  margin-top: 8%;
+  margin-left: 70%;
+}
+
 div {
   margin: auto;
   padding: 10px;
