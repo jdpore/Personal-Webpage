@@ -1,0 +1,117 @@
+body {
+  background-color: white;
+  margin: 0%;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+}
+
+.justify {
+  text-align: justify;
+  margin: auto;
+}
+
+.logo {
+  margin-right: 25%;
+}
+
+a {
+  text-decoration: none;
+  color: blanchedalmond;
+  font-family: sans-serif;
+  margin-top: -10px;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.bg {
+  text-align: center;
+  width: 50%;
+  border: 3px solid black;
+  margin-top: 20%;
+}
+
+p.normal {
+  font-size: 30px;
+  font-family: Calibri;
+  font-weight: normal;
+}
+
+p.thick {
+  font-size: 20px;
+  font-family: Calibri;
+  text-align: center;
+  font-weight: bold;
+}
+
+.topSection {
+  background-color: black;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.right {
+  margin-top: -15.5%;
+  margin-left: 52%;
+}
+
+.txtLogo {
+  margin: 0;
+  margin-top: 25px;
+  margin-right: 6%;
+  -ms-transform: translateY(-75%);
+  transform: translateY(-75%);
+  vertical-align: middle;
+  display: inline-block;
+  font-size: 90%;
+}
+
+.texts {
+  font-weight: normal;
+  margin-left: 20%;
+  position: absolute;
+  text-align: left;
+  margin-top: 12%;
+  font-family: Calibri;
+  font-size: 35px;
+}
+
+.texts1 {
+  font-weight: normal;
+  margin-left: 20%;
+  position: absolute;
+  text-align: left;
+  margin-top: 14%;
+  font-family: Calibri;
+  font-size: 25px;
+}
+
+div {
+  margin: auto;
+  padding: 10px;
+}
+
+h1 {
+  margin-left: 20%;
+  margin-top: 16%;
+  position: absolute;
+  text-align: left;
+  font-size: 60px;
+  font-family: Calibri;
+}
+.buttons {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 0.5%;
+  display: block;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px 15px;
+  text-decoration: none;
+  display: inline-block;
+}
